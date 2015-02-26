@@ -1,5 +1,6 @@
 <?php
 
-phpinfo();
+$array = ['a','b','c'];
+var_dump($array);
 
 ?>
