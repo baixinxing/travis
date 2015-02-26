@@ -2,4 +2,4 @@
 
 php 5.2\5.3 失败
 
-[![Build Status](https://travis-ci.org/baixinxing/travis.svg)](https://travis-ci.org/baixinxing/travis.svg)
+[![Build Status](https://travis-ci.org/baixinxing)](https://travis-ci.org/baixinxing/travis.svg)
